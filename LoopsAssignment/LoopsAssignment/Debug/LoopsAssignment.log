@@ -1,0 +1,3 @@
+﻿  LoopsAssignment.cpp
+c:\users\andrew.michael\desktop\loops-assignment\loopsassignment\loopsassignment\loopsassignment.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LoopsAssignment.vcxproj -> C:\Users\andrew.michael\Desktop\Loops-Assignment\LoopsAssignment\Debug\LoopsAssignment.exe
